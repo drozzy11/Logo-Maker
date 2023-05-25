@@ -1,0 +1,16 @@
+{
+  "name": "logo-maker",
+  "description": "Logo Maker",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
