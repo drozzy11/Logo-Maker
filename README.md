@@ -5,7 +5,7 @@
 
  * [Description](#description)
 
- * [Screen-Recording-of-Application-Functionality](#live-screen-recording-of-application-functionality)
+ * [Screen-Recording-of-Application-Functionality](#screen-recording-of-application-functionality)
 
  * [Technologies-Used](#technologies-used)
 
@@ -23,10 +23,13 @@
 
 This terminal application was created to allow users to create a simple logo with 3 shapes. The logo is given to the user given an SVG file. 
 
-## Live Screen Recording of Application Functionality
+## Screen Recording of Application Functionality
 
+https://drive.google.com/file/d/1cuABZsugwwJV8x3O73nbr3sjX51MgPsA/view
 
 Examples of Generated Logos
+![Example-Logo1](/Examples/exampleSVG1.svg)
+![Example-Logo2](/Examples/exampleSVG2.svg)
 
 
 ## Technologies Used
