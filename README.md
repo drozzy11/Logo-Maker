@@ -1,5 +1,5 @@
-# SVG-Logo-Maker
-Week-10 Challenge
+# Logo-Maker
+
 
 ## Table of Contents
 
